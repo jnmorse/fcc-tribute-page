@@ -1,0 +1,17 @@
+#site-header {
+  background-color: hsl(9, 30%, 50%);
+  padding: 0.5rem 0;
+}
+
+#site-header h1 {
+  margin: 0;
+  line-height: 1.3em;
+}
+
+#site-header_subtitle {
+  font-size: 1.7rem;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.3em;
+  margin: 0 0.5em;
+}

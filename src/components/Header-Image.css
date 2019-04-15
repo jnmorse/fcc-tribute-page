@@ -1,0 +1,10 @@
+#img-div {
+  margin: 0;
+}
+
+#img-div img {
+  display: block;
+  margin: 0 auto 0.5rem;
+  width: 750px;
+  max-width: 100%;
+}
