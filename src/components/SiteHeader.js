@@ -12,7 +12,7 @@ function showSubtitle(subTitle) {
 
 export default function SiteHeader({ title, subTitle, children }) {
   return(
-    <header id="site-header" style={{ width: '100vw' }}>
+    <header id="site-header">
       <h1 style={{ textAlign: 'center' }} id="title">{title}</h1>
       {showSubtitle(subTitle)}
       {children}
