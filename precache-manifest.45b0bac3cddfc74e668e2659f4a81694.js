@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/fcc-tribute-page/static/js/runtime~main.e2d1983e.js"
   },
   {
-    "revision": "374cd94bb37e1f59ed96",
+    "revision": "600eef5d06a9038045be",
     "url": "/fcc-tribute-page/static/js/main.55110ae3.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/fcc-tribute-page/static/js/2.a420ee9b.chunk.js"
   },
   {
-    "revision": "374cd94bb37e1f59ed96",
-    "url": "/fcc-tribute-page/static/css/main.90fc1fb3.chunk.css"
+    "revision": "600eef5d06a9038045be",
+    "url": "/fcc-tribute-page/static/css/main.6887a428.chunk.css"
   },
   {
-    "revision": "7afb90aab26cfa3d38aaac71d9ef148b",
+    "revision": "255a36d6aadbb65bd3cfcfd6271abfc7",
     "url": "/fcc-tribute-page/index.html"
   }
 ];
